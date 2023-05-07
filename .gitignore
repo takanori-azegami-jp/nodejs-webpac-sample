@@ -1,3 +1,7 @@
+# dist
+dist/*.js
+dist/asset
+
 # Logs
 logs
 *.log
