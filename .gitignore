@@ -1,7 +1,3 @@
-# dist
-dist/bundle.js
-dist/asset
-
 # Logs
 logs
 *.log
