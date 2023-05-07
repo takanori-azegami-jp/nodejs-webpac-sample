@@ -1,5 +1,5 @@
 # nodejs-webpac-sample
 JavaScriptファイルをwebpackでまとめるサンプル
 
-
-https://envader.plus/course/9/scenario/1086
+## 参考サイト
+- [Webpackを使ってJavaScriptモジュールを管理しよう](https://envader.plus/course/9/scenario/1086)
